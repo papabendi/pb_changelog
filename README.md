@@ -1,4 +1,5 @@
 # PB Changelog
 ## Changelog Script for FiveM
 
-- Download: Coming Soon
+- Download from CFX Portal: https://portal.cfx.re/assets/granted-assets
+- Purchase from Tebex: https://store.papabendi.dev/
